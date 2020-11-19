@@ -1,0 +1,10 @@
+dependencies {
+	compileOnly group: "biz.aQute.bnd", name: "biz.aQute.bndlib", version: "3.5.0"
+	compileOnly group: "com.liferay.commerce", name: "com.liferay.commerce.product.api", version: "29.3.0"
+	compileOnly group: "com.liferay.commerce", name: "com.liferay.commerce.product.content.api", version: "5.0.5"
+	compileOnly group: "com.liferay.commerce", name: "com.liferay.commerce.product.type.simple", version: "3.0.8"
+	compileOnly group: "com.liferay.portal", name: "release.portal.api"
+	compileOnly group: "javax.servlet", name: "javax.servlet-api"
+	compileOnly group: "org.osgi", name: "org.osgi.core"
+	compileOnly group: "org.osgi", name: "org.osgi.service.component.annotations"
+}
