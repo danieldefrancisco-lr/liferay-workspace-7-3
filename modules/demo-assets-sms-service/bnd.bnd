@@ -1,0 +1,9 @@
+Bundle-Name: demo-assets-sms-service
+Bundle-SymbolicName: demo.assets.sms.service
+Bundle-Version: 1.0.0
+Bundle-ClassPath:\
+  .,\
+  lib/nexmo.jar
+-includeresource:\
+  lib/nexmo.jar=client-4.4.0.jar
+  
