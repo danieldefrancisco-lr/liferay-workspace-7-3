@@ -2,3 +2,4 @@ Bundle-Name: commerce-demo-custom-checkout-step
 Bundle-SymbolicName: commerce.demo.custom.checkout.step
 Bundle-Version: 1.0.0
 Export-Package: commerce.demo.custom.checkout.step.api
+Web-ContextPath: /commerce-demo-custom-checkout-step

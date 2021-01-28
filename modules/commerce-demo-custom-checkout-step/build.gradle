@@ -1,3 +1,6 @@
 dependencies {
 	compileOnly group: "com.liferay.portal", name: "release.portal.api"
+    compileOnly group: "com.liferay.commerce", name: "com.liferay.commerce.api", version: "22.2.4"
+    compileOnly group: "com.liferay.commerce", name: "com.liferay.commerce.checkout.web", version: "4.0.15"
+    compileOnly group: "com.liferay.commerce", name: "com.liferay.commerce.product.api", version: "29.3.0"
 }
